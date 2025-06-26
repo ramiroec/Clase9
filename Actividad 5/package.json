@@ -1,0 +1,19 @@
+{
+  "name": "actividad-5",
+  "version": "1.0.0",
+  "description": "Actividad 5 de la Clase 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "fullstack"
+  ],
+  "author": "Ramiro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
